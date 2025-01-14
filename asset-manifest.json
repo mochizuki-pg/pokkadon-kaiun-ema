@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pokkadon-kaiun-ema/static/css/main.206b31b8.css",
-    "main.js": "/pokkadon-kaiun-ema/static/js/main.d473b7c0.js",
+    "main.css": "/pokkadon-kaiun-ema/static/css/main.99228ef7.css",
+    "main.js": "/pokkadon-kaiun-ema/static/js/main.18647dec.js",
     "static/js/488.2b6991d1.chunk.js": "/pokkadon-kaiun-ema/static/js/488.2b6991d1.chunk.js",
     "index.html": "/pokkadon-kaiun-ema/index.html",
-    "main.206b31b8.css.map": "/pokkadon-kaiun-ema/static/css/main.206b31b8.css.map",
-    "main.d473b7c0.js.map": "/pokkadon-kaiun-ema/static/js/main.d473b7c0.js.map",
+    "main.99228ef7.css.map": "/pokkadon-kaiun-ema/static/css/main.99228ef7.css.map",
+    "main.18647dec.js.map": "/pokkadon-kaiun-ema/static/js/main.18647dec.js.map",
     "488.2b6991d1.chunk.js.map": "/pokkadon-kaiun-ema/static/js/488.2b6991d1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.206b31b8.css",
-    "static/js/main.d473b7c0.js"
+    "static/css/main.99228ef7.css",
+    "static/js/main.18647dec.js"
   ]
 }
